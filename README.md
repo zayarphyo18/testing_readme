@@ -32,12 +32,9 @@
 - Pyae Sone ([GitHub](https://github.com/bobjohnson))
 - Bhone Myat ([GitHub](https://github.com/bobjohnson))
 
-All rights reserved. This work is protected under the copyright laws and treaties of [Your Country/Region].
+All rights reserved. This work is protected under the copyright laws and treaties of Myanmar (Yangon).
 
 No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the project maintainers, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-For permissions, inquiries, or additional information, please contact the project maintainers at [maintainer@example.com].
-
 This project is licensed under the terms of the [Your License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 
