@@ -2,7 +2,7 @@
   <h1>SET09623 2023-4 TR2 001 - DevOps's Group Project</h1>
   <h1><sup>Special Thanks to:</sup></h1>
 
-  👤 [Htoo Myat Linn](https://github.com/johndoe) &nbsp;&nbsp; 👤 [Wai Yan Moe](https://github.com/janesmith) &nbsp;&nbsp; 👤 [Kyaw Ko Ko San](https://github.com/bobjohnson)
+  👤 [Htoo Myat Linn](https://github.com/johndoe) &nbsp;&nbsp; 👤 [Wai Yan Moe](https://github.com/janesmith) &nbsp;&nbsp; 👤 [Kyaw Ko Ko San](https://github.com/bobjohnson)&nbsp;&nbsp; 👤 [Pyae Sone](https://github.com/bobjohnson)&nbsp;&nbsp; 👤 [Bhone Myat](https://github.com/bobjohnson)
 </div><br>
 
 <h1>Table of Contents</h1>
