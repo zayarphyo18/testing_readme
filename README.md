@@ -1,18 +1,45 @@
 <div align="center">
+<h1>SET09623 2023-4 TR2 001 - DevOps's Group Project</h1>
+<h1><sup>Special Thanks to:</sup></h1>
+</div>
 
-<h1><sup>Special thanks to:</sup></h1>
 
 
-# SET09623 2023-4 TR2 001 - DevOps's Group Project
+# Project Description
+# Code of Conducts
 
-Project's Title
-Table of Contents 
-Project Description
-Code of Conducts
-How to Install and Run the Project
-Include Credits
-Badges
-Contributors
-Add a License
-Date
-Copyright
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+# How to Install and Run the Project
+# Add a License
+# Date
+# Copyright
