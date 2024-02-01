@@ -23,17 +23,7 @@
 # Copyright
 
 &copy; 2024 SET09623 DevOps's Group Project
-
-**Contributors:**
-- Htoo Myat Linn ([GitHub](https://github.com/johndoe))
-- Wai Yan Moe ([GitHub](https://github.com/janesmith))
-- Kyaw Ko Ko San ([GitHub](https://github.com/bobjohnson))
-- Pyae Sone ([GitHub](https://github.com/bobjohnson))
-- Bhone Myat ([GitHub](https://github.com/bobjohnson))
-- ME ([GitHub](https://github.com/bobjohnson))
-
 All rights reserved. This work is protected under the copyright laws and treaties of Myanmar (Yangon).
-
 No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or any others  illegal rules, without the prior written permission of the project maintainers. This project is licensed under the terms of the [License](LICENSE).
 
 
