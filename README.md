@@ -21,7 +21,6 @@
 # Add a License
 # Date
 # Copyright
-# Copyright
 
 &copy; 2024 SET09623 DevOps's Group Project
 
