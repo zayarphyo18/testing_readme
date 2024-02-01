@@ -2,11 +2,7 @@
   <h1>SET09623 2023-4 TR2 001 - DevOps's Group Project</h1>
   <h1><sup>Special Thanks to:</sup></h1>
   
-  [![Htoo Myat Linn](https://img.shields.io/badge/-Htoo_Myat_Linn-00cc00.svg)](https://github.com/AdamCold)
-  [![Wai Yan Moe](https://img.shields.io/badge/-Wai_Yan_Moe-00cc00.svg)](https://github.com/WaiYanMoe-Devop)
-  [![Kyaw Ko Ko San](https://img.shields.io/badge/-Kyaw_Ko_Ko_San-00cc00.svg)](https://github.com/KyawKoKoSan)
-  [![Pyae Sone](https://img.shields.io/badge/-Pyae_Sone-00cc00.svg)](https://github.com/SonePyae)
-  [![Bhone Myat](https://img.shields.io/badge/-Bhone_Myat-00cc00.svg)](https://github.com/bhonemyat88)
+
 
 </div><br>
 
@@ -17,6 +13,7 @@
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [Add a License](#add-a-license)
 - [Date](#date)
+- [Contributors](#contributors)
 - [Copyright](#copyright)
 
 # Project Description
@@ -25,6 +22,12 @@
 # How to Install and Run the Project
 # Add a License
 # Date
+# Contributors
+  [![Htoo Myat Linn](https://img.shields.io/badge/-Htoo_Myat_Linn-00cc00.svg)](https://github.com/AdamCold)
+  [![Wai Yan Moe](https://img.shields.io/badge/-Wai_Yan_Moe-00cc00.svg)](https://github.com/WaiYanMoe-Devop)
+  [![Kyaw Ko Ko San](https://img.shields.io/badge/-Kyaw_Ko_Ko_San-00cc00.svg)](https://github.com/KyawKoKoSan)
+  [![Pyae Sone](https://img.shields.io/badge/-Pyae_Sone-00cc00.svg)](https://github.com/SonePyae)
+  [![Bhone Myat](https://img.shields.io/badge/-Bhone_Myat-00cc00.svg)](https://github.com/bhonemyat88)
 # Copyright
 
 &copy; 2024 SET09623 DevOps's Group Project
