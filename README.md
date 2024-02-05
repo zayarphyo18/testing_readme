@@ -5,16 +5,19 @@
 <h1>Table of Contents</h1>
 
 - [Project Description](#project-description)
-- [Code of Conducts](#code-of-conducts)
+- [Key Features](#key-features)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [Contributors](#contributors)
 - [Version](#version)
 - [Date](#date)
-- [Contributors](#contributors)
 - [Copyright](#copyright)
 
 # Project Description
-# Code of Conducts
-
+This Java application connects to a MySQL database containing global data. It was developed by Htoo Myat Linn, Kyaw Ko Ko San, Bhone Myat, Wai Yan Moe, Zayar Phyo, and Pyae Sone. The application showcases fundamental database interactions and queries, offering features to retrieve and display information about countries and cities. Additionally, it allows users to filter data by continent and region and provides insights into the most populated countries.
+# Key Features
+- Retrieve and display information about countries and cities.
+- Filter data by continent and region.
+- Showcase top-populated countries.
 # How to Install and Run the Project
 # Version
 # Date
