@@ -7,7 +7,7 @@
 - [Project Description](#project-description)
 - [Code of Conducts](#code-of-conducts)
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
-- [Add a License](#add-a-license)
+- [Version](#version)
 - [Date](#date)
 - [Contributors](#contributors)
 - [Copyright](#copyright)
@@ -16,7 +16,7 @@
 # Code of Conducts
 
 # How to Install and Run the Project
-# Add a License
+# Version
 # Date
 # Contributors
   [![Htoo Myat Linn](https://img.shields.io/badge/-Htoo_Myat_Linn-00cc00.svg)](https://github.com/AdamCold)
