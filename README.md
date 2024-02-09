@@ -9,7 +9,7 @@
 - [How to Install and Run the Project](#how-to-install-and-run-the-project)
 - [Contributors](#contributors)
 - [Version](#version)
-- [Date](#date)
+- [Released Date](#released-date)
 - [Copyright](#copyright)
 
 # Project Description
@@ -20,7 +20,7 @@ This Java application connects to a MySQL database containing global data. It wa
 - Showcase top-populated countries.
 # How to Install and Run the Project
 # Version
-# Date
+# Released Date
 # Contributors
   [![Htoo Myat Linn](https://img.shields.io/badge/-Htoo_Myat_Linn-00cc00.svg)](https://github.com/AdamCold)
   [![Wai Yan Moe](https://img.shields.io/badge/-Wai_Yan_Moe-00cc00.svg)](https://github.com/WaiYanMoe-Devop)
